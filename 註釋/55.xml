@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>55.png</filename>
+    <path>KevinWQ-PascalVOC-export/Annotations/55.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>322.07792207792204</xmin>
+        <ymin>85.1948051948052</ymin>
+        <xmax>393.41991341991337</xmax>
+        <ymax>180.7792207792208</ymax>
+    </bndbox>
+</object>
+</annotation>
